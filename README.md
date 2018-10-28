@@ -170,6 +170,9 @@ If you have Git installed and your project is not part of a larger repository, t
 
 In the project directory, you can run:
 
+### `npm install`
+install All dependency for this app<br>
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
